@@ -59,6 +59,8 @@
 
 The main working part was taken from [Megatron](https://github.com/eyaadh/megadlbot_oss) and thanks to [eyaadh](https://github.com/eyaadh) for his awesome project.
 
+## [how to use it](https://isedu.top/index.php/archives/31/)
+
 ## How to make your own
 
 Either you could locally host or deploy on [Heroku](https://heroku.com)
